@@ -22,8 +22,7 @@ public static void main(String[] args) {
 		 k--;
 	  }
 	  
-	  int k=0;
-	  do { System.out.println("do"+l);
+	  do { System.out.println("do"+k);
 		k--;
 	  }while(k>0);
 	  
