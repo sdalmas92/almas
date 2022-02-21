@@ -15,9 +15,9 @@ public static void main(String[] args) {
 		System.out.println(str[i]);
 
 	
-	  if(str[1]=="vivo") { System.out.println("mobile is vivo");
+	  if(str[0]=="vivo") { System.out.println("mobile is vivo");
 	  
-	  }else if(str[0]=="sam") { System.out.println("mobile is sam");
+	  }else if(str[1]=="sam") { System.out.println("mobile is sam");
 	  
 	  }else { System.out.println("\n nothing to show");
 	 
